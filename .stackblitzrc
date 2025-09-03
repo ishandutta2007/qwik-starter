@@ -1,0 +1,4 @@
+{
+  "installDependencies": false,
+  "startCommand": "npm create qwik@latest --template empty --outDir . --installDeps --force && npm i && npm start"
+}
